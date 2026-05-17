@@ -1,0 +1,7 @@
+{
+  "name": "hospital-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
